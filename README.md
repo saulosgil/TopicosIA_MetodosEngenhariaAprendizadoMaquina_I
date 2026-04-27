@@ -15,12 +15,31 @@ Este repositório reúne as atividades desenvolvidas na disciplina **Tópicos em
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=flat&logo=plotly&logoColor=white)
 
-## Notebooks 👨‍💻
+## 🗂️ Repository structure
+
+```text
+TopicosIA_MetodosEngenhariaAprendizadoMaquina_I/
+├── tutorial/
+│   ├── tutorial_gmm.solution.ipynb
+│   ├── tutorial_linear_regression.solution.ipynb
+│   └── tutorial_pca.solution.ipynb
+└── ExercicioComputacional_01_SG.ipynb
+└── ExercicioComputacional_02_SG.ipynb
+└── ExercicioComputacional_03_SG.ipynb
+└── ExercicioComputacional_04_SG.ipynb
+└── README.md
+
+
+## Notebooks -Exercícios 👨‍💻
 
 1. **ExercicioComputacional01_SG.ipynb** - Exercício computacional para treinamento de modelo linear.
 
 
 2. **ExercicioComputacional02_SG.ipynb** - Exercício computacional para aplicação de PCA para redução de dimensionalidade e compressão e reconstrução de imagens de dígitos e visualização em baixa dimensão de dados tabulares.
+
+3. **ExercicioComputacional02_SG.ipynb** - Exercício computacional para aplicação do modelo de mistura Gaussiana (GMMs) e algoritmo Expectation-Maximization (EM).
+
+4. **ExercicioComputacional02_SG.ipynb** - Exercício computacional para aplicação do Support Vector Machines (SVM).
 
 #
 
